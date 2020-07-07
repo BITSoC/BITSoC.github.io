@@ -1,0 +1,44 @@
+---
+
+port: 5000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "BITSoC"
+keywords:    "SinglePaged, jekyll, template, github, blog, SoC, IET, BIT, mesra, Summer, Code, Summer, single page"
+description: "The official Landing Page for IET BIT Mesra's 2020 event Summer of Code."
+source_link: "https://github.com/GOSHROW/SummerOfCode2020"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  white:        '#eaeaea'
+  intro:        '#0a0a0a'
+  activities:   '#dd6940'
+  saturday-one: '#66b266'
+  monday:       '#5ea06e'
+  tuesday:      '#578e77'
+  wednesday:    '#4f7c80'
+  thursday:     '#486a89'
+  friday:       '#415992'
+  saturday-two: '#39479b'
+  contacts:     '#3035A4'
+
+kramdown:
+  auto_ids:  false
+
+sass:
+  sass_dir: stylesheets/_sass/

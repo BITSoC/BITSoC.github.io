@@ -1,0 +1,111 @@
+saturday1:
+  - title: Mentors Sign Up
+    time: By Monday, July 13th 2020, 11:59 pm
+    image: geenorbertk.png
+    typeform: https://bitsoc.typeform.com/to/ldC4mY5Y
+    text: "Mentors can put in their projects as they desire. We will support you in getting it ready for the event, and the final list of Selected Projects will be published on <emphasis>May 21st, 2020, Thursday</emphasis>."
+
+
+  - title: Mentees Sign Up
+    time: By Thursday, July 16th 2020. 11:59 pm
+    image: hackathon.png 
+    typeform: https://bitsoc-mentee.paperform.co
+    text: Mentees can put up their candidature so that the project chosen can cater more specifically to their needs. Also, get registered as a mentee to score for your PRs and compete to the top of the ScoreBoard. One can also opt to form developer pods alongwith their mentors and help grow the community.
+
+
+monday:
+  - title: Pod Formation
+    time: July 17th 2020, Friday.
+    image: retro.png
+    text: Get into groups on distinct channels with your mentor and fellow participants to fully have a grasp on the Project. As a member of the pod, you will be allotted milestones whose definite worth is reflected upon in your final Scorebords. Be sure to sail through the Milestones while the clock ticks by.
+
+
+  - title: Milestones
+    time: "<style>
+table, th, td {
+  border: 4px solid white;
+  border-collapse: collapse;
+  text-align:center
+}
+</style>
+<table>
+  <tr>
+    <th>MILESTONE</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Start</td>
+    <td>20th July 2020</td>
+  </tr>
+  <tr>
+    <td>Task 1</td>
+    <td>5th August 2020</td>
+  </tr>
+  <tr>
+    <td>Task 2</td>
+    <td>16th August 2020</td>
+  </tr>
+  <tr>
+    <td>Task 3</td>
+    <td>29th August 2020</td>
+  </tr>
+  <tr>
+    <td>Final Merges and END</td>
+    <td>31st August 2020</td>
+  </tr>
+</table>"
+    image: milestone.png
+    text: "Race through milestones of a pod to lead the scoreboard. <br>Even outside of a pod, make successful PRs to any repository put forth by the Organization and get scored accordingly."
+
+tuesday:
+
+  - title: Get on With Git and FOSS
+    time: July 12th 2020, Sunday
+    place: Our Group Chat Platform
+    image: git_tr.png
+    text: "You can get to avoid all embarassments of a rookie Git user with a valuable set of resources provided by the organizers. Thus you can concentrate better on your current project than for the VCS to mediate through.<a href='https://learngitbranching.js.org/'> Till then have a basic idea of Git. </a>"
+
+  - title: PRs? Scores?
+    place: GitHub
+    image: pr.png
+    text: "Make PRs in the provided projects and your mentor / repository owner will grade it alongwith the organizers on all merged PRs from the participants. These scores will be tallied onto the weekly and the overall scoreboards. <br> In addition, every weekend various activities will be organized to get you to score more and sharpen your skills"
+
+wednesday:
+  - title: "Elixir: A Talk for College Students"
+    time: 14h-16h
+    place: DI A1
+    image: elixir.png
+    typeform: https://cesium.typeform.com/to/BVRFSJ
+    text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
+    presentation: https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students
+
+  - title: JavaScript
+    time: 16h-18h
+    place: DI A1
+    image: javascript.png
+    typeform: https://cesium.typeform.com/to/qPxrdE
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
+
+thursday:
+  - title: Ionic
+    time: 17h-19h
+    place: DI A1
+    image: ionic.png
+    typeform: https://cesium.typeform.com/to/lkBZaK
+    text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
+
+friday:
+  - title: Retro Strikes Again
+    time: 9h-18h
+    place: Átrio do DI
+    image: red.png
+    text: Se no início da semana não tiveste oportunidade, aproveita e passa pelo Departamento de Informática e relembra a informática de outrora e os bons sons 8-bits que temos para ti.
+
+saturday2:
+  - title: CoderDojo
+    time: 10h-12h
+    place: GNRation
+    image: coderdojo.png
+    typeform: https://coderdojo-minho.typeform.com/to/gwf8nv
+    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
+
