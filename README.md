@@ -17,11 +17,11 @@ Check out [_config](_config.yml)
 
 Fork and Clone the repo as necessary. 
 ```
-git clone git@github.com:GOSHROW/SummerOfCode2020.git
+git clone git@github.com:BITSoC/BITSoC.github.io.git
 ```
 
 ```
-git checkout gh-pages
+git checkout master
 ```
 
 Served by :
@@ -31,7 +31,7 @@ jekyll serve -w
 ```
 
 at localhost:5000 
-or make a PR to view at [goshrow.github.io/SummerOfCode2020](goshrow.github.io/SummerOfCode2020)
+or make a PR to view at [BITSoC](https://bitsoc.github.io/)
 
 
 For jekyll installation refer [here](https://jekyllrb.com/docs/installation/)
