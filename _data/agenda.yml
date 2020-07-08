@@ -7,7 +7,7 @@ saturday1:
 
 
   - title: Mentees Sign Up
-    time: By Thursday, July 20th 2020. 11:59 pm
+    time: By Monday, July 20th 2020. 11:59 pm
     image: hackathon.png 
     typeform: https://bitsoc-mentee.paperform.co
     text: Mentees can put up their candidature so that the project chosen can cater more specifically to their needs. Also, get registered as a mentee to score for your PRs and compete to the top of the ScoreBoard. One can also opt to form developer pods alongwith their mentors and help grow the community.
@@ -60,7 +60,7 @@ table, th, td {
 tuesday:
 
   - title: Get on With Git and FOSS
-    time: July 12th 2020, Sunday
+    time: July 16th 2020, Thursday
     place: Our Group Chat Platform
     image: git_tr.png
     text: "You can get to avoid all embarassments of a rookie Git user with a valuable set of resources provided by the organizers. Thus you can concentrate better on your current project than for the VCS to mediate through.<a href='https://learngitbranching.js.org/'> Till then have a basic idea of Git. </a>"
