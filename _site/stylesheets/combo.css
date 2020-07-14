@@ -533,11 +533,17 @@ html { box-sizing: border-box; }
   
   
   nav .p-contacts { border-color: #3035A4; }
-  #contacts { background-color: #3035A4 !important; color: #eaeaea; }
+  #contacts { background-color: #3a4787 !important; color: #eaeaea; }
   #contacts a { color: #eaeaea; }
   #contacts .sectiondivider { color: #3035A4; }
-  #main #contacts .activity { border-color:  }
-  #main #contacts .section-lines { border-color:  }
+  #faq {background-color: #3a4791 !important; color: #eaeaea;}
+  
+  
+  
+  
+  nav .p-faq { border-color: faq; }
+  #faq a { color: #eaeaea; }
+  #faq .sectiondivider { color: #3a4791; }
 
   
   

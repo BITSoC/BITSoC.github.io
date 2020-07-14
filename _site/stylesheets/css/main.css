@@ -81,6 +81,17 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-faq { border-color: faq; }
+  #faq { background-color: faq !important; color: #eaeaea; }
+  #faq a { color: #eaeaea; }
+  #faq .sectiondivider { color: faq; }
+  #main #faq .activity { border-color:  }
+  #main #faq .section-lines { border-color:  }
+
+  
+  
+  
+  
   nav .p-saturday-two { border-color: #39479b; }
   #saturday-two { background-color: #39479b !important; color: #eaeaea; }
   #saturday-two a { color: #eaeaea; }

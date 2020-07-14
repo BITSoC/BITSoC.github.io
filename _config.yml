@@ -35,7 +35,8 @@ colors:
   thursday:     '#486a89'
   friday:       '#415992'
   saturday-two: '#39479b'
-  contacts:     '#3035A4'
+  contacts:     '#3a4787'
+  faq:          '#3a4791'
 
 kramdown:
   auto_ids:  false
