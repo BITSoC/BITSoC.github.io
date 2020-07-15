@@ -3,10 +3,11 @@ title: "Guidelines"
 bg: saturday-two
 color: white
 border-color: contacts
-fa-icon: sun-o
+fa-icon: check-square-o	
+
 ---
 
-# Do adhere to the given rules.
+# __Do adhere to the given rules.__
 <div style="list-style: unset">
 <hr/>
 

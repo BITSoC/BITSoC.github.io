@@ -58,10 +58,15 @@ html { box-sizing: border-box; }
 .text-saturday-two a { color: #39479b; }
 .bg-saturday-two     { background-color: #39479b !important; }
 
-.border-contacts { border-color: #3035A4 !important; }
-.text-contacts   { color: #3035A4; }
-.text-contacts a { color: #3035A4; }
-.bg-contacts     { background-color: #3035A4 !important; }
+.border-contacts { border-color: #3a4787 !important; }
+.text-contacts   { color: #3a4787; }
+.text-contacts a { color: #3a4787; }
+.bg-contacts     { background-color: #3a4787 !important; }
+
+.border-faq { border-color: #3a4791 !important; }
+.text-faq   { color: #3a4791; }
+.text-faq a { color: #3a4791; }
+.bg-faq     { background-color: #3a4791 !important; }
 
 
 /* ----- per-post colors! ----- */
@@ -70,10 +75,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-contacts { border-color: #3035A4; }
-  #contacts { background-color: #3035A4 !important; color: #eaeaea; }
+  nav .p-contacts { border-color: #152238; }
+  #contacts { background-color: #152238 !important; color: #eaeaea; }
   #contacts a { color: #eaeaea; }
-  #contacts .sectiondivider { color: #3035A4; }
+  #contacts .sectiondivider { color: #152238; }
   #main #contacts .activity { border-color:  }
   #main #contacts .section-lines { border-color:  }
 
@@ -81,10 +86,10 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-faq { border-color: faq; }
-  #faq { background-color: faq !important; color: #eaeaea; }
+  nav .p-faq { border-color: #111e6c; }
+  #faq { background-color: #111e6c !important; color: #eaeaea; }
   #faq a { color: #eaeaea; }
-  #faq .sectiondivider { color: faq; }
+  #faq .sectiondivider { color: #111e6c; }
   #main #faq .activity { border-color:  }
   #main #faq .section-lines { border-color:  }
 
@@ -96,8 +101,8 @@ html { box-sizing: border-box; }
   #saturday-two { background-color: #39479b !important; color: #eaeaea; }
   #saturday-two a { color: #eaeaea; }
   #saturday-two .sectiondivider { color: #39479b; }
-  #main #saturday-two .activity { border-color: #3035A4 }
-  #main #saturday-two .section-lines { border-color: #3035A4 }
+  #main #saturday-two .activity { border-color: #3a4787 }
+  #main #saturday-two .section-lines { border-color: #3a4787 }
 
   
   
