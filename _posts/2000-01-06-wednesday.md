@@ -6,20 +6,19 @@ border-color: thursday
 fa-icon: bar-chart
 ---
 
-| Mentee             |     Project      | Score |
-| ------------------ | :--------------: | :---: |
-| Arun Bhagat        | Image Captioning |  214  |
-| Swarnima Tiwari    |    Covid Cure    |  153  |
-| Rajiv Ranjan Singh |    Livestream    | 127.5 |
-| Md. Zeeshan Equbal |      A-Pop       |  123  |
-| Harit Yadav        |  Emotion Recog   | 44.5  |
-| Aitik              |  Emotion Recog   | 44.5  |
-| Vaibhav            |  Emotion Recog   | 44.5  |
-| Asra               |  Emotion Recog   | 44.5  |
-| Animesh            |  Emotion Recog   | 44.5  |
-| Shivam             |  Emotion Recog   | 44.5  |
-| vidit chopra       |      A-Pop       |  28   |
-| Gaurav             |  Emotion Recog   |   0   |
+| Mentee             |               Project               | Score |
+| ------------------ | :---------------------------------: | :---: |
+| Arun Bhagat        |          Image Captioning           |  321  |
+| Rajiv Ranjan Singh | Livestream, Image Captioning, A-POP |  214  |
+| Swarnima Tiwari    |             Covid Cure              |  153  |
+| Harit Yadav        |            Emotion Recog            | 139.5 |
+| Aitik              |            Emotion Recog            | 138.5 |
+| Md. Zeeshan Equbal |                A-Pop                |  123  |
+| Animesh            |            Emotion Recog            | 89.5  |
+| Vaibhav            |            Emotion Recog            | 44.5  |
+| Asra               |            Emotion Recog            | 44.5  |
+| Shivam             |            Emotion Recog            | 44.5  |
+| vidit chopra       |                A-Pop                |  28   |
 
 <!-- <div class="section-lines section-top section-left"></div>
 {% for activity in site.data.agenda.wednesday %}
